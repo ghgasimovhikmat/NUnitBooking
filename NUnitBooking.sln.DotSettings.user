@@ -1,0 +1,7 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ad9b0818_002D9103_002D4d5d_002D9980_002D792f259a7c73/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="OverlappingBookingsExist_BookingIsCancelled_ReturnsEmptyString" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::6EFEA04E-A664-454E-81E0-E85B78C0553F::net6.0::NUnitBooking.Testing.BookingHelperTests.OverlappingBookingsExist_BookingIsCancelled_ReturnsEmptyString&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::6EFEA04E-A664-454E-81E0-E85B78C0553F::net6.0::NUnitBooking.Testing.BookingHelperTests.OverlappingBookingsExist_BookingOverlaps_ReturnsBookingReference&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
